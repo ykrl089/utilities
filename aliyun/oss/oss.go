@@ -1,8 +1,8 @@
 /*
 * @Author: GuoDi
 * @Date:   2016-04-11 22:13:41
-* @Last Modified by:   GuoDi
-* @Last Modified time: 2016-11-23 23:27:03
+* @Last Modified by:   guodi
+* @Last Modified time: 2021-02-19 23:01:12
  */
 package aliyun
 
@@ -20,10 +20,6 @@ import (
 	"time"
 
 	"github.com/aliyun/aliyun-oss-go-sdk/oss"
-)
-
-var (
-	client *oss.Client
 )
 
 // Oss 阿里云OSS对象
