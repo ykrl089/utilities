@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"utilities/str/uid"
+	"github.com/ykrl089/utilities/str/uid"
 )
 
 type AccessToken struct {
